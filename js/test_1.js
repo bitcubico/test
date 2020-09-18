@@ -1,3 +1,3 @@
 function test() {
-    alert('Prueba 2')
+    alert('Prueba 3')
 }
